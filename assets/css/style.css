@@ -278,7 +278,10 @@ transition: 1s;
   width: 119px;
 transition: 1s;
 }
-.car img:hover {
+.car1 img:hover {
+  transform: rotate(180deg);
+}
+.car3 img:hover {
   transform: rotate(180deg);
 }
 h4 a {
